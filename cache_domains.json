@@ -131,6 +131,11 @@
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
+    },
+    {
+      "name": "gitlab",
+      "description": "CDN for GitLab",
+      "domain_files": ["gitlab.txt"]
     }
   ]
 }
